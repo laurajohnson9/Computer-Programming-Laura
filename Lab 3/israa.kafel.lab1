@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head style= "color: pink;"> 
+    <title>
+        Personal Portfolio
+    </title>
+<body>
+    <h1 style="color:blueviolet; background-color:rgb(244, 217, 174);">
+        Israa Kafel
+    </h1>
+    <h3 style="color:cornflowerblue; background-color: antiquewhite;">
+       NJIT <br>
+       ihk@njit.edu <br>
+       B.Arch <br>
+    </h3>
+    <p style="color:black;">
+        Israa Kafel is a first year architecture student at NJIT. She was born and raised in New Jersey. She recently graduated from Boonton High School where she had a very memorable four years. Israa is excited to have five more memorable years here at the New Jersey Institute of Technology. 
+    </p> 
+    <a>
+        https://www.njit.edu/visit 
+    </a>
+    <img src="img_me_jpeg.jpg" alt="sample"> 
+</body>
+</head>
+</html>
