@@ -1,0 +1,25 @@
+ th{
+   background-color: lightgray; 
+   border:black;width: 2px;border-style: solid;
+   padding: 10px;
+ }
+ table{
+    border:black;width: 2px;border-style: solid;
+    margin-top: 100px;margin-right: 100px;margin-left: 100px;margin-bottom: 100px;
+ }
+ td{
+    padding: 10px;
+    border:black;width: 2px;border-style: solid;
+ }
+#img1{ 
+    width: 150px;height: 150px;
+   border: 5px;color: red;border-style: dashed;padding: 30px;
+}
+#img2{ 
+    width:20%;height: 20%;
+    border: 5px;color: red;border-style: dashed;padding: 30px;
+}
+#img3{
+    width:80pt;height: 80pt;
+    border: 5px;color: red;border-style: dashed;padding: 30px;
+}
