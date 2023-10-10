@@ -1,0 +1,43 @@
+
+                table, th, td {
+                  border-style: solid;
+                  border-width: 2px;
+                  border-color: black;
+                  margin-top: 100px;
+                  margin-bottom: 100px;
+                  margin-left: 100px;
+                  margin-right: 100px;
+
+                }
+th {background-color: lightgray;}
+th {padding-top: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+padding-left: 10px; }
+
+#Img1 {
+    Height:15%;
+    width: 15%;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: red;
+    padding: 30px;
+}
+
+#Img2 {
+    Height:15%;
+    width: 15%;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: red;
+    padding: 30px;
+}
+
+#Img3 {
+    Height:15%;
+    width: 15%;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: red;
+    padding: 30px;
+}
