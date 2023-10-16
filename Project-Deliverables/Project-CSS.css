@@ -1,0 +1,25 @@
+nav{
+    text-align: center;
+    word-spacing: 200px;
+    color:navy
+}
+h2{
+    color: red;
+    text-align: center;
+}
+h1{
+    color: navy;
+    text-align: center;
+}
+#main{
+    border-color: black;
+    border-radius: 2px;
+    border-style: solid;
+}
+.img1{
+    height: 60mm;
+    width: 60mm;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
