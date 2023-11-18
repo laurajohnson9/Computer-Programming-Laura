@@ -1,0 +1,28 @@
+#img1{
+    padding: 40px; height: 780px;width: 1500px;
+}
+#fake{
+    background-color:lightgrey;
+    color: blue;
+}
+.p1{
+    margin-left: 50px;margin-right: 50px;
+}
+.h2{
+    margin-left: 50px;margin-right: 50px;
+}
+.h3{
+    margin-left: 50px;margin-right: 50px;
+}
+.links{
+    margin-left: 50px;margin-right: 50px;
+}
+#img2{
+    padding: 20px;width: 300px;height: 150px;
+}
+#img3{
+    padding: 20px;width: 200px;height: 200px;
+}
+.h4{
+    margin-left: 50px;margin-right: 50px;
+}
