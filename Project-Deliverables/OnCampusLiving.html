@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <a href="file:///C:/Users/laj21/OneDrive/Desktop/CS104/Project.html" class="btn btn-secondary"id="btn"> <p>Back Home<p></p></a>
         <center>
             <h2 style="color:white; background-color:navy;"> On Campus Living </h2>
          </center>
@@ -8,6 +9,12 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
     </head>
     <body>
+         <script>
+            document.getElementById('btn');
+             displayText = document.getElementById('displayText');
+             displayText.addEventListener('click', changeText);
+            function changeText() {displayText.textContent = "Directing Back Home";}
+        </script>
         <div>
 <img src="Screenshot 2023-11-12 190028.png" class="img-fluid">
 </div>
