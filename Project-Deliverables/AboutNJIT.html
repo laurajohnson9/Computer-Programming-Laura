@@ -12,8 +12,14 @@
 </head>
 <div class="m-3">
 <nav><h3>
-    <a href="file:///C:/Users/laj21/OneDrive/Desktop/CS104/Project.html" class="btn"id=fake> Back Home</a>
+    <a href="file:///C:/Users/laj21/OneDrive/Desktop/CS104/Project.html" class="btn"id=btn> <p>Back Home</p></a>
 </nav></h3></div>
+     <script>
+            document.getElementById('btn');
+             displayText = document.getElementById('displayText');
+             displayText.addEventListener('click', changeText);
+            function changeText() {displayText.textContent = "Directing Back Home";}
+        </script>
 <div id="main">
   
  <img src="https://www.njit.edu/sites/default/files/styles/16x9/public/njit-1923.jpg?itok=-OefGxll" alt="NJIT OLD" style="float:left;width:400px;height:350px;">
