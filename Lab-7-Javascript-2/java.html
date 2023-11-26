@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <div>
+    <script>
+        let num1 = 20 
+        let num = 10
+        console.log(num1 + num2)
+        console.log(num1 - num2)
+        console.log(num1 * num2)
+        console.log(log / num2)
+
+        var score = 85;
+        function calculateGrade(score) {
+            if (score > 90) {
+                console.log("A grade");
+
+            } else if (score > 80 & score < 89) {
+                console.log("B grade");
+
+            } else if (score > 70 & score < 79) {
+                console.log("C grade");
+
+            } else if (score > 60 & score < 69) {
+                console.log("D grade");
+
+            } else (score > 60)
+                console.log("F grade");
+
+        }
+        calculateGrade(score); 
+
+
+    </script>
+    
+    </div>
+    <button id="changeTxtBtn">
+    click here
+    </button>
+    <p id="displayText">Hello World</p>
+
+    <script>
+    // document.getElementById("displayText").innerHTML;
+    document.getElementById("changeTxtBtn").addEventListener("click",changeText);
+
+    function changeText() {
+        document.getElementById("displayText").innerHTML= "Hello, JavaScript World!"
+    }
+
+
+    </script>
+    </div>
+</body>
+</html>
